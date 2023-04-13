@@ -1,2 +1,2 @@
 # EstruturaDeDados.py
-Primeiros conceitos de pilhas em Python
+Primeiros conceitos em Python
